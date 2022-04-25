@@ -1,0 +1,68 @@
+.container {
+    max-width: 1244px;
+    padding: 0 1rem;
+    margin: 0 auto 6rem;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.headerImage {
+    width: 9rem;
+    height: 8rem;
+}
+
+.headerHomeImage {
+    width: 11rem;
+    height: 10rem;
+}
+
+.backToHome {
+    margin: 3rem 0 0;
+}
+
+.headerWrapper{
+    background-color: gray;
+    color: white;
+    height: 50px;
+    width: 100%;
+    padding: 0px 0px;
+    margin: 0px 0px 50px 0px;
+}
+
+.wrapper{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+.headerText{
+    line-height: 50px;
+    float: left;
+    margin-left: 20px;
+}
+
+.iconWrapper{
+    float: right;
+    height: 100%;
+    width: 10%;
+    margin-right: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon{
+    height: 30px;
+    width: 30px;
+    margin: auto 0;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.git {
+    background-color: gray;
+}
