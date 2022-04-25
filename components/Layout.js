@@ -12,7 +12,7 @@ function layout({children,home}) {
                 <link rel="icon" href="/favicon.ico"></link>
             </Head>
             <div className={styles.headerWrapper}>
-                <h1 className={styles.headerText}>Yama's Portfolio</h1>
+                <h1 className={styles.headerText}>Yama Portfolio</h1>
                 <div className={styles.iconWrapper}>
                     <a href="https://github.com/yamato0211">
                         <img src="/images/github.png" alt="github" className={`${styles.icon} ${styles.git}`}/>
