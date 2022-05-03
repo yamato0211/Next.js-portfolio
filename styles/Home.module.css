@@ -15,6 +15,7 @@
 .thumbnailImage {
   width: 900px;
   height: 500px;
+  object-fit: contain;
   margin-bottom: 20px;
   box-shadow: 0px 3px 6px gray;
   transition: all 0.3s;
