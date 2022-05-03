@@ -8,9 +8,11 @@ JavaScript のフレームワークである React と firebase を用いて、*
 
 ## 使用技術
 
-- React (v 17.0.2)
-- FireBase (v 9.6.7)
-- MaterialUI (v 5.4)
+React (v 17.0.2)
+
+FireBase (v 9.6.7)
+
+MaterialUI (v 5.4)
 
 このアプリケーションは slack の API を用いており、フォーラムに記入された内容が自分の slack チャンネルに届くようになっている。
 
