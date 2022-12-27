@@ -1,7 +1,7 @@
 ---
 title: ハックツハッカソン(メガロカップ)で最優秀賞をとりました！
 date: 2022 December
-thumbnail: /images/portfolioImage10.png
+thumbnail: /images/portfolioImage10.jpg
 ---
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2086809/decbfc3a-56ab-17b1-dd5f-ad8d901155b2.png)

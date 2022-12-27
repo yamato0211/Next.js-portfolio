@@ -1,7 +1,7 @@
 ---
 title: 初めてハッカソンに参加しました！
 date: 2022 November
-thumbnail: /images/portfolioImage8.png
+thumbnail: /images/portfolioImage8.jpg
 ---
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2086809/099eba46-a081-cdee-f739-0ceef02bcd9e.png)
